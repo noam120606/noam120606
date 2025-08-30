@@ -16,8 +16,5 @@ Salut, c'est Noam j'ai 18 ans (si cette bio est à jour 👀) et je code depuis 
 ---
 [![](https://visitcount.itsvg.in/api?id=noam120606&icon=0&color=1)](https://visitcount.itsvg.in)
 
-  ## 💰 Vous pouvez aider en donnant :
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/noamroger) 
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
